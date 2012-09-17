@@ -1,8 +1,8 @@
 //
 //  main.m
-//  CM
+//  Code Monk
 //
-//  Created by Hannah Hironaka on 9/1/12.
+//  Created by Hannah Hironaka on 9/17/12.
 //  Copyright (c) 2012 Hannah Hironaka. All rights reserved.
 //
 

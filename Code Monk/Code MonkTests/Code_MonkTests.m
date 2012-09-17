@@ -1,14 +1,14 @@
 //
-//  CMTests.m
-//  CMTests
+//  Code_MonkTests.m
+//  Code MonkTests
 //
-//  Created by Hannah Hironaka on 9/1/12.
+//  Created by Hannah Hironaka on 9/17/12.
 //  Copyright (c) 2012 Hannah Hironaka. All rights reserved.
 //
 
-#import "CMTests.h"
+#import "Code_MonkTests.h"
 
-@implementation CMTests
+@implementation Code_MonkTests
 
 - (void)setUp
 {
@@ -26,7 +26,7 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in CMTests");
+    STFail(@"Unit tests are not implemented yet in Code MonkTests");
 }
 
 @end
